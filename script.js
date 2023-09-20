@@ -8,7 +8,6 @@ const questions = [
         { text: "Cape Coast", correct: false },
       ],
     },
-  
     {
       question: "Which of these can be found in the Ghana flag except?",
       answers: [
@@ -18,7 +17,6 @@ const questions = [
         { text: "Yellow", correct: false },
       ],
     },
-  
     {
       question: "What is the name of the Ghanaian senior national Football team?",
       answers: [
@@ -28,9 +26,8 @@ const questions = [
         { text: "Cape Stars", correct: false },
       ],
     },
-  
     {
-      question: "Who is the current captain of  the Ghanaian senior national Football team?",
+      question: "Who is the current captain of the Ghanaian senior national Football team?",
       answers: [
         { text: "Asamoah Gyan", correct: false },
         { text: "Stephen Appiah", correct: false },
@@ -95,14 +92,6 @@ const questions = [
       button.disabled = true;
     });
     nextButton.style.display = "block";
-    nextButton.addEventListener("click", () => {
-      currentQuestionIndex++;
-      if (currentQuestionIndex < questions.length) {
-        showQuestion();
-      } else {
-        showScore();
-      }
-    });
   }
   
   function showScore() {
@@ -114,6 +103,15 @@ const questions = [
       startQuiz();
     });
   }
+  
+  nextButton.addEventListener("click", () => {
+    currentQuestionIndex++;
+    if (currentQuestionIndex < questions.length) {
+      showQuestion();
+    } else {
+      showScore();
+    }
+  });
   
   startQuiz();
   
