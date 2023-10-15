@@ -36,6 +36,12 @@ Questions and answers provided by Ghana Quiz.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+If you're ready to test your knowledge about Ghana, click the link below to start the quiz:
+
+[Click here to test your knowledge about Ghana](https://yawboah.github.io/Quiz-App/)
+
+Enjoy the journey and have fun exploring Ghana!
+
 
 
 
