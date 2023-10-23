@@ -7,7 +7,6 @@ const questions = [
         { text: "Ho", correct: false },
         { text: "Cape Coast", correct: false },
       ],
-    },
      {
     question: "What is the largest man-made lake in the world by surface area, which is located in Ghana?",
     answers: [
@@ -16,7 +15,7 @@ const questions = [
       { text: "Lake Malawi", correct: false },
       { text: "Lake Tanganyika", correct: false },
     ],
-  },
+
     {
       question: "Which of these can be found in the Ghana flag except?",
       answers: [
@@ -26,6 +25,7 @@ const questions = [
         { text: "Yellow", correct: false },
       ],
     },
+
     {
       question: "What is the name of the Ghanaian senior national Football team?",
       answers: [
@@ -35,6 +35,7 @@ const questions = [
         { text: "Cape Stars", correct: false },
       ],
     },
+
     {
       question: "Who is the current captain of the Ghanaian senior national Football team?",
       answers: [
@@ -44,6 +45,7 @@ const questions = [
         { text: "Dede Ayew", correct: true },
       ],
     },
+
     {
       question: "What is the most widely spoken language in Ghana?",
       answers: [
@@ -53,6 +55,7 @@ const questions = [
         { text: "Ewe", correct: false },
       ],
     },
+
     {
       question: "In what year did Ghana gain its independence from British colonial rule?",
       answers: [
@@ -62,6 +65,7 @@ const questions = [
         { text: "1972", correct: false },
       ],
     },
+
     {
       question: "Which famous natural landmark is located in Ghana and is a UNESCO World Heritage Site?",
       answers: [
@@ -71,6 +75,7 @@ const questions = [
         { text: "Serengeti National Park", correct: false },
       ],
     },
+
     {
       question: "What is the traditional Ghanaian dish made from cassava and plantains and often served with soup or stew?",
       answers: [
@@ -80,6 +85,48 @@ const questions = [
         { text: "Waakye", correct: false },
       ],
     },
+
+    {
+      question: "Which Ghanaian musician is known as the 'Dancehall King'?",
+      answers: [
+        { text: "Sarkodie", correct: false },
+        { text: "Stonebwoy", correct: true },
+        { text: "Shatta Wale", correct: false },
+        { text: "M.anifest", correct: false },
+      ],
+    },
+
+    {
+      question: "What is the largest man-made lake in the world by surface area, which is located in Ghana?",
+      answers: [
+        { text: "Lake Volta", correct: true },
+        { text: "Lake Chad", correct: false },
+        { text: "Lake Malawi", correct: false },
+        { text: "Lake Tanganyika", correct: false },
+      ],
+    },
+
+    {
+      question: "Which Ghanaian festival is celebrated by the Ga people and involves colorful processions and drumming?",
+      answers: [
+        { text: "Aboakyer Festival", correct: false },
+        { text: "Homowo Festival", correct: true },
+        { text: "Fetu Afahye Festival", correct: false },
+        { text: "Kundum Festival", correct: false },
+      ],
+    },
+
+    {
+      question: "Who was the first President of Ghana and a key figure in the fight for independence?",
+      answers: [
+        { text: "Kwame Nkrumah", correct: true },
+        { text: "John Agyekum Kufuor", correct: false },
+        { text: "Jerry John Rawlings", correct: false },
+        { text: "Nana Addo Dankwa Akufo-Addo", correct: false },
+      ],
+    },
+
+    
   ];
   
   const questionElement = document.getElementById("question");
