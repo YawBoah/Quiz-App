@@ -44,6 +44,16 @@ const questions = [
         { text: "Ewe", correct: false },
       ],
     },
+    {
+      question: "In what year did Ghana gain its independence from British colonial rule?",
+      answers: [
+        { text: "1957", correct: true },
+        { text: "1960", correct: false },
+        { text: "1945", correct: false },
+        { text: "1972", correct: false },
+      ],
+    },
+    
   ];
   
   const questionElement = document.getElementById("question");
