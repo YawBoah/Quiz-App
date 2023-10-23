@@ -98,6 +98,28 @@ const questions = [
         { text: "Lake Tanganyika", correct: false },
       ],
     },
+
+    {
+      question: "Which Ghanaian festival is celebrated by the Ga people and involves colorful processions and drumming?",
+      answers: [
+        { text: "Aboakyer Festival", correct: false },
+        { text: "Homowo Festival", correct: true },
+        { text: "Fetu Afahye Festival", correct: false },
+        { text: "Kundum Festival", correct: false },
+      ],
+    },
+
+    {
+      question: "Who was the first President of Ghana and a key figure in the fight for independence?",
+      answers: [
+        { text: "Kwame Nkrumah", correct: true },
+        { text: "John Agyekum Kufuor", correct: false },
+        { text: "Jerry John Rawlings", correct: false },
+        { text: "Nana Addo Dankwa Akufo-Addo", correct: false },
+      ],
+    },
+
+    
   ];
   
   const questionElement = document.getElementById("question");
