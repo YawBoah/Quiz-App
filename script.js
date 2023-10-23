@@ -53,7 +53,15 @@ const questions = [
         { text: "1972", correct: false },
       ],
     },
-    
+    {
+      question: "Which famous natural landmark is located in Ghana and is a UNESCO World Heritage Site?",
+      answers: [
+        { text: "Victoria Falls", correct: false },
+        { text: "Kruger National Park", correct: false },
+        { text: "Kakum National Park", correct: true },
+        { text: "Serengeti National Park", correct: false },
+      ],
+    },
   ];
   
   const questionElement = document.getElementById("question");
