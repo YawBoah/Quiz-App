@@ -79,3 +79,8 @@ body{
 .incorrect{
     background: #ff9393;
 }
+
+/* Media Query for screens with a maximum width of 480px */
+@media screen and (max-width: 480px) {
+   
+}
