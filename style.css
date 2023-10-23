@@ -92,5 +92,7 @@ body{
         font-size: 22px; /* Adjust the font size for smaller screens */
     }
 
-    
+    #next-btn {
+        display: block; /* Show the "Next" button on smaller screens */
+    }
 }
