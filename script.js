@@ -62,6 +62,15 @@ const questions = [
         { text: "Serengeti National Park", correct: false },
       ],
     },
+    {
+      question: "What is the traditional Ghanaian dish made from cassava and plantains and often served with soup or stew?",
+      answers: [
+        { text: "Jollof Rice", correct: false },
+        { text: "Banku and Tilapia", correct: false },
+        { text: "Fufu and Light Soup", correct: true },
+        { text: "Waakye", correct: false },
+      ],
+    },
   ];
   
   const questionElement = document.getElementById("question");
