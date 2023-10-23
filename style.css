@@ -82,5 +82,11 @@ body{
 
 /* Media Query for screens with a maximum width of 480px */
 @media screen and (max-width: 480px) {
-   
+    .app {
+        width: 100%; /* Make the content full-width on smaller screens */
+        border-radius: 0; /* Remove border radius for full-width content */
+        padding: 20px; /* Adjust padding for smaller screens */
+    }
+
+  
 }
