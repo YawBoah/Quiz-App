@@ -35,6 +35,15 @@ const questions = [
         { text: "Dede Ayew", correct: true },
       ],
     },
+    {
+      question: "What is the most widely spoken language in Ghana?",
+      answers: [
+        { text: "English", correct: false },
+        { text: "Akan", correct: true },
+        { text: "Hausa", correct: false },
+        { text: "Ewe", correct: false },
+      ],
+    },
   ];
   
   const questionElement = document.getElementById("question");
