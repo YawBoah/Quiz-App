@@ -36,6 +36,15 @@ Questions and answers provided by Ghana Quiz.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## About Ghana
+Ghana, situated on the Gulf of Guinea and the Atlantic Ocean, is known for its rich history, diverse culture, and stunning landscapes. Explore the beauty and heritage of Ghana through this quiz.
+
+If you're ready to test your knowledge about Ghana, click the link below to start the quiz:
+
+[Click here to test your knowledge about Ghana](https://yawboah.github.io/Quiz-App/)
+
+Enjoy the journey and have fun exploring Ghana!
+
 
 
 
