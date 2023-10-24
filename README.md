@@ -4,6 +4,7 @@ A simple quiz application built using HTML, CSS, and JavaScript. Test your knowl
 
 ![image](https://github.com/YawBoah/Quiz-App/assets/126890146/6f8de9e1-4024-4e27-bdf6-537e8c7a0880)
 
+![image](https://github.com/YawBoah/Quiz-App/assets/126890146/dcef2516-b1ec-4988-ab7e-5e9c63fe643e)
 
 ## Table of Contents
 - [Features](#features)
