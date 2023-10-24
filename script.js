@@ -7,8 +7,6 @@ const questions = [
         { text: "Ho", correct: false },
         { text: "Cape Coast", correct: false },
       ],
-    },
-  
 
     {
       question: "Which of these can be found in the Ghana flag except?",
