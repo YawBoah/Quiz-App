@@ -7,15 +7,7 @@ const questions = [
         { text: "Ho", correct: false },
         { text: "Cape Coast", correct: false },
       ],
-     {
-    question: "What is the largest man-made lake in the world by surface area, which is located in Ghana?",
-    answers: [
-      { text: "Lake Volta", correct: true },
-      { text: "Lake Chad", correct: false },
-      { text: "Lake Malawi", correct: false },
-      { text: "Lake Tanganyika", correct: false },
-    ],
-
+        
     {
       question: "Which of these can be found in the Ghana flag except?",
       answers: [
