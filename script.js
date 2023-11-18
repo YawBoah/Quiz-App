@@ -7,6 +7,7 @@ const questions = [
         { text: "Ho", correct: false },
         { text: "Cape Coast", correct: false },
       ],
+<<<<<<< HEAD
     },
 
     {
@@ -186,6 +187,8 @@ const questions = [
       ],
     },
   
+=======
+>>>>>>> a51982cd10a9003cdce59e3fb9334e9065e6e376
 
     {
       question: "Which of these can be found in the Ghana flag except?",
