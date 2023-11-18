@@ -286,6 +286,16 @@ const questions = [
         { text: "Nana Addo Dankwa Akufo-Addo", correct: false },
       ],
     }, 
+
+    {
+      question: "Which national park is known for its population of elephants in Ghana?",
+      answers: [
+        { text: "Mole National Park", correct: true },
+        { text: "Kakum National Park", correct: false },
+        { text: "Digya National Park", correct: false },
+        { text: "Bia National Park", correct: false },
+      ],
+    },
   ];
   
 
