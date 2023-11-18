@@ -186,9 +186,6 @@ const questions = [
         { text: "Borborbor", correct: false },
       ],
     },
-  
-=======
->>>>>>> a51982cd10a9003cdce59e3fb9334e9065e6e376
 
     {
       question: "Which of these can be found in the Ghana flag except?",
