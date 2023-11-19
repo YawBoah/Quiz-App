@@ -12,14 +12,12 @@ A simple quiz application built using HTML, CSS, and JavaScript. Test your knowl
 - [License](#license)
 
 ## Features
-
 - Multiple-choice questions
 - Score tracking
 - Simple and responsive design
 - Next button to move to the next question
 
 ## How to Use
-
 1. Clone the repository:
 
    ```bash
