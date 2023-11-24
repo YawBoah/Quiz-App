@@ -1,4 +1,4 @@
-#🌟 Exciting Quiz Adventure - Discover Ghana! 🌍
+# 🌟 Exciting Quiz Adventure - Discover Ghana! 🌍
 Welcome to the Simple Quiz App – an interactive journey to test your knowledge about Ghana! 🇬🇭 Unveil the beauty, history, and culture of this amazing country through a series of multiple-choice questions. Engage in a fun and immersive learning experience with our quiz application.
 
 ![image](https://github.com/YawBoah/Quiz-App/assets/126890146/6f8de9e1-4024-4e27-bdf6-537e8c7a0880)
