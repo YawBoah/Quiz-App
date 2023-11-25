@@ -36,11 +36,9 @@ Welcome to the Simple Quiz App – an interactive journey to test your knowledge
 Questions and answers are graciously provided by Ghana Quiz, adding an authentic touch to your quiz experience.
 
 ## License 📜
-
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## About Ghana 🌍
-
 Discover the beauty of Ghana, a country known for its rich history, diverse culture, and breathtaking landscapes. Dive into this quiz and explore the wonders of Ghana!
 
 Ready to embark on your Ghanaian adventure? Click [here](https://yawboah.github.io/Quiz-App/) to test your knowledge and have a blast!
