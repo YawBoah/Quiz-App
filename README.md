@@ -19,7 +19,6 @@ Welcome to the Simple Quiz App – an interactive journey to test your knowledge
    ```
 
 2. **Open and Play**:
-
    - Open the `index.html` file in your web browser.
    - Dive into the quiz, answering questions and witnessing your score rise.
 
