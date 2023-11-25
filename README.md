@@ -23,16 +23,13 @@ Welcome to the Simple Quiz App – an interactive journey to test your knowledge
    - Dive into the quiz, answering questions and witnessing your score rise.
 
 3. **Explore Ghana**:
-
    - Learn fascinating facts about Ghana with every question.
    - Marvel at the beautiful images accompanying each quiz.
 
 4. **Play Again and Again**:
-
    - Click "Play Again" to start a new quiz and explore more about Ghana.
 
 ## Credits 🙌
-
 Questions and answers are graciously provided by Ghana Quiz, adding an authentic touch to your quiz experience.
 
 ## License 📜
