@@ -84,6 +84,19 @@ body{
 /* Media Query for screens with a maximum width of 480px */
 @media screen and (max-width: 480px) {
     .app {
+        width: 100%;
+        border-radius: 0; 
+        padding: 20px;
+    }
+
+    .app h1 {
+        font-size: 22px;
+    }
+
+    #next-btn {
+        display: block;
+    }
+
         width: 100%; /* Make the content full-width on smaller screens */
         border-radius: 0; /* Remove border radius for full-width content */
         padding: 20px; /* Adjust padding for smaller screens */
@@ -97,3 +110,4 @@ body{
         display: block; /* Show the "Next" button on smaller screens */
     }
 }
+
