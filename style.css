@@ -96,18 +96,4 @@ body{
     #next-btn {
         display: block;
     }
-
-        width: 100%; /* Make the content full-width on smaller screens */
-        border-radius: 0; /* Remove border radius for full-width content */
-        padding: 20px; /* Adjust padding for smaller screens */
-    }
-
-    .app h1 {
-        font-size: 22px; /* Adjust the font size for smaller screens */
-    }
-
-    #next-btn {
-        display: block; /* Show the "Next" button on smaller screens */
-    }
 }
-
