@@ -377,4 +377,4 @@ const questions = [
   });
   
   startQuiz();
-  
+
