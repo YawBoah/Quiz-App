@@ -7,7 +7,6 @@ const questions = [
         { text: "Ho", correct: false },
         { text: "Cape Coast", correct: false },
       ],
-<<<<<<< HEAD
     },
 
     {
