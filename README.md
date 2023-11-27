@@ -18,29 +18,29 @@ Welcome to the Simple Quiz App – an interactive journey to test your knowledge
    git clone https://github.com/YawBoah/quiz-app.git
    ```
 
-2. **Open and Play**:
+2. **Open and Play**🏀🎯:
    - Open the `index.html` file in your web browser.
    - Dive into the quiz, answering questions and witnessing your score rise.
 
-3. **Explore Ghana**:
+3. **Explore Ghana**🌍:
    - Learn fascinating facts about Ghana with every question.
    - Marvel at the beautiful images accompanying each quiz.
 
-4. **Play Again and Again**:
+4. **Play Again and Again**😶:
    - Click "Play Again" to start a new quiz and explore more about Ghana.
 
-## Credits 🙌
+## Credits🙌
 Questions and answers are graciously provided by Ghana Quiz, adding an authentic touch to your quiz experience.
 
-## License 📜
+## License📜
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## About Ghana 🌍
+## About Ghana🌍
 Discover the beauty of Ghana, a country known for its rich history, diverse culture, and breathtaking landscapes. Dive into this quiz and explore the wonders of Ghana!
 
 Ready to embark on your Ghanaian adventure? Click [here](https://yawboah.github.io/Quiz-App/) to test your knowledge and have a blast!
 
-🎉**Enjoy the quiz, and may your knowledge about Ghana shine bright!** 🌟
+🎉**Enjoy the quiz, and may your knowledge about Ghana shine bright!**🌟
 
 
 
