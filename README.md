@@ -40,7 +40,7 @@ Discover the beauty of Ghana, a country known for its rich history, diverse cult
 
 Ready to embark on your Ghanaian adventure? Click [here](https://yawboah.github.io/Quiz-App/) to test your knowledge and have a blast!
 
-🎉 **Enjoy the quiz, and may your knowledge about Ghana shine bright!** 🌟
+🎉**Enjoy the quiz, and may your knowledge about Ghana shine bright!** 🌟
 
 
 
