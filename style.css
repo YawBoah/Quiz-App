@@ -14,7 +14,7 @@ body{
     background: #fff;
     width: 90%;
     max-width: 600px;
-    margin: 100px auto 0;
+    margin: 15px auto 0;
     border-radius: 10px;
     padding: 30px;
 }
@@ -25,6 +25,23 @@ body{
    font-weight: 600;
    border-bottom: 1px solid #333;
    padding-bottom: 30px; 
+}
+
+.app-description{
+    margin-bottom: 20px;
+    color: #fff;
+    margin: 10px 300px;
+    font-size: 20px;
+}
+
+
+.app-description ul{
+    list-style-type: circle;
+    margin-top: 5px;
+    margin-left: 200px;
+    padding-left: 20px;
+    font-weight: 500;
+    color: chartreuse;
 }
 
 .quiz{
@@ -96,4 +113,20 @@ body{
     #next-btn {
         display: block;
     }
+
+    .app-description{
+        margin-bottom: 20px;
+        color: #fff;
+        margin: 10px 20px;
+        font-size: smaller;
+    }
+
+    .app-description ul{
+        list-style-type: circle;
+        margin-top: 5px;
+        margin-left: 20px;
+        padding-left: 20px;
+        font-weight: 500;
+    }
+    
 }
