@@ -5,7 +5,7 @@ Welcome to the Simple Quiz App – an interactive journey to test your knowledge
 
 ![image](https://github.com/YawBoah/Quiz-App/assets/126890146/dcef2516-b1ec-4988-ab7e-5e9c63fe643e)
 
-## Features 🚀
+## Features🚀
 - **Multiple-Choice Magic**: Challenge yourself with a variety of multiple-choice questions that cover diverse aspects of Ghana.
 - **Score Sensation**: Keep track of your progress with our score tracking feature. Watch your score soar as you conquer each question.
 - **Sleek Design**: Enjoy a simple and responsive design that enhances your quiz-taking experience.
