@@ -11,7 +11,7 @@ Welcome to the Simple Quiz App – an interactive journey to test your knowledge
 - **Sleek Design**: Enjoy a simple and responsive design that enhances your quiz-taking experience.
 - **Next Button Nirvana**: Seamlessly navigate through questions using the Next button, keeping the excitement alive.
 
-## How to Embark on this Quiz Adventure 🧭
+## How to Embark on this Quiz Adventure🧭
 1. **Clone the Repository**:
 
    ```bash
